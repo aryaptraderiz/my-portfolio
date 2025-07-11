@@ -1,0 +1,70 @@
+{
+  "data": [
+    {
+      "id": "espoint",
+      "name": "esPoint",
+      "createdAt": "2025-06-30-13T04:18:19Z",
+      "url": "https://github.com/aryaptraderiz/espoint",
+      "description": "Sales and stock management system built with Flutter and Firebase.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Flutter",
+          "iconifyClass": "logos-flutter"
+        },
+        {
+          "name": "Firebase",
+          "iconifyClass": "simple-icons:firebase"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "mie_gacoan",
+      "name": "miegacoanCLI",
+      "createdAt": "2025-04-13T20:41:33Z",
+      "url": "https://github.com/aryaptraderiz/MiegacoanCLI",
+      "description": "A command-line based restaurant management system developed in Java using the db4o object database. Supports customer management, menu and orders handling, report generation, and database backups — all tailored for Mie Gacoan’s operational workflow.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Java",
+          "iconifyClass": "logos-java"
+        }
+      ]
+    },
+    {
+      "id": "buildurPC",
+      "name": "buildurPC",
+      "createdAt": "2025-04-06T16:26:54Z",
+      "url": "https://github.com/kloctst/BuildurPC",
+      "description": "Developed a PC building simulation website using HTML, CSS, and JavaScript.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "Dockerfile",
+          "iconifyClass": "simple-icons:docker"
+        }
+      ]
+    }
+   
+
+  
+    
+  ]
+}
