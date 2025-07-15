@@ -22,6 +22,30 @@
         }
       ]
     },
+
+    {
+      "id": "tidy",
+      "name": "Tidy",
+      "createdAt": "2025-07-12-13T04:18:19Z",
+      "url": "https://github.com/aryaptraderiz/tidyplanner",
+      "description": "A Flutter-based student planner & reminder app with Google Sign-In, Firebase Firestore sync, and local notifications for task & schedule management.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Flutter",
+          "iconifyClass": "logos-flutter"
+        },
+        {
+          "name": "Firebase",
+          "iconifyClass": "simple-icons:firebase"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    
     {
       "id": "mie_gacoan",
       "name": "miegacoanCLI",
